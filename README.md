@@ -1,1 +1,3 @@
-# alef-skoleni
+# Python
+## Seznámení s programovacím jazykem
+ 
