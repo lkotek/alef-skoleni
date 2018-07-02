@@ -1,0 +1,5 @@
+routDate,Time,User-Name,Group-Name,Calling-Station-Id,Acct-Status-Type,Acct-Session-Id,Acct-Session-Time,Service-Type,Framed-Protocol,Acct-Input-Octets,Acct-Output-Octets,Acct-Input-Packets,Acct-Output-Packets,Framed-IP-Address,NAS-Port,NAS-IP-Address,cisco-av-pair
+01/01/1970,10:00:01,123456,Default Group,12-34-56-AA-BB-CC,Stop,000AEEE,0,,,654321,12349865,6752554,185555555,192.168.1.1,68765,192.168.0.1,audit-session-id=EE123456789 vlan-id=6
+01/01/1971,10:06:01,123456,Default Group,21-34-56-AA-BB-CC,Stop,000AEEE,0,,,654321,12349865,6752554,185555555,192.168.1.1,68765,192.168.0.1,audit-session-id=EE123456789 vlan-id=7
+01/01/1972,12:00:01,123456,Default Group,77-34-56-AA-BB-CC,Stop,000AEEE,0,,,654321,12349865,6752554,185555555,192.168.1.1,68765,192.168.0.1,audit-session-id=EE123456789 vlan-id=8
+01/01/1973,13:00:01,123456,Default Group,89-34-56-AA-BB-CC,Stop,000AEEE,0,,,654321,12349865,6752554,185555555,192.168.1.1,68765,192.168.0.1,audit-session-id=EE123456789 vlan-id=9
