@@ -7,4 +7,5 @@
 
 ## Licence
 
-Není-li udáno jinak, jsou prezentace zpřístupněny pod licencí CC BY-NC-SA 4.0. Skripty v Pythonu jsou volně k užití jako Public domain.
+Není-li udáno jinak, jsou prezentace zpřístupněny pod licencí CC BY-NC-SA 4.0. 
+Skripty v Pythonu jsou volně k užití jako public domain.
