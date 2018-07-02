@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<servers>
+	<server id="01">
+		<hostname>python.org</hostname>
+		<nasloucha>80</nasloucha>
+		<popis>Web Pythonu</popis>
+	</server>
+    <server id="02">
+        <hostname>root.cz</hostname>
+        <nasloucha>80</nasloucha>
+        <popis>Nejlepsi web o "Linuxu :-)</popis>
+    </server>
+</servers>
